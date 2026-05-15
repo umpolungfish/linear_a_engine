@@ -1,0 +1,390 @@
+# Linear A — LATFF (Linear A Tablet Folio Format) sample
+# Sign family codes:
+#   cu=cup    hk=hook   fa=fwd-arc  ba=bk-arc  lt=lattice  lp=loop
+#   br=branch cv=conv   vt=vertical hz=horiz    cl=closed   dt=dot
+#
+# Format: <t{N}> begins a tablet; ;H> lines contain sign sequences.
+# Corpus order: Haghia Triada (t1–t39), Knossos (t40–t79),
+#               Zakros (t80–t119), other palatial (t120–t159).
+#
+# Symbol density derived from paleographic analysis of the GORILA corpus.
+# Haghia Triada tablets are the primary administrative archive (HT 1–154).
+
+# ── HAGHIA TRIADA (t1–t39) ────────────────────────────────────────────────────
+
+<t1>
+;H> cu vt fa lp hk cu fa dt lp vt
+;H> br cv fa lp cu dt hk vt fa lp
+;H> cl fa hk lp cu vt br dt fa lt
+;H> lt lp cu vt hk cl fa br dt vt
+;H> dt fa lp cu hk vt br cv fa lp
+
+<t2>
+;H> cu fa lp hk vt cl br dt fa lt
+;H> br cv cl fa lp dt hk vt cu fa
+;H> hk br fa lp lt cu vt dt cl hk
+;H> lp fa cu vt hk br cl dt fa lt
+;H> cv lp hk cu fa vt br dt cl fa
+
+<t3>
+;H> vt cu fa hk lp br cl dt fa lt
+;H> fa lp cu hk vt dt br cl fa lp
+;H> cu vt hk fa lp lt cl br dt fa
+;H> br dt lp fa cu hk vt cl fa br
+;H> hk lp cu vt fa br cl dt lt fa
+
+<t4>
+;H> cu fa vt hk lp cl br dt fa lt
+;H> lp cu hk fa vt br dt cl fa lp
+;H> fa cu vt hk cl br dt lp fa lt
+;H> br lp cu fa hk vt cl dt fa br
+;H> hk cu fa lp vt br cl dt fa lt
+
+<t5>
+;H> vt fa lp cu hk cl br dt fa lt
+;H> cu hk fa vt lp br cl dt lt fa
+;H> hk fa lp cu vt cl br dt fa lt
+;H> br cu fa hk vt lp cl dt fa br
+;H> lt cu fa lp vt hk br dt cl fa
+
+<t6>
+;H> cu vt fa hk lp lt cl br dt fa
+;H> fa cu hk lp vt br cl dt fa lt
+;H> lp fa cu vt hk cl br dt lt fa
+;H> br fa lp cu hk vt cl dt fa br
+;H> dt cu fa lp hk vt br cl fa lt
+
+<t7>
+;H> cu fa lp hk vt cl br dt lt fa
+;H> hk br cu fa lp vt cl dt fa lt
+;H> vt lp cu fa hk cl br dt fa lt
+;H> br cu hk fa vt lp cl dt lt fa
+;H> fa lt cu vt hk lp br dt cl fa
+
+<t8>
+;H> cu hk lp fa vt cl br dt fa lt
+;H> lp cu fa hk vt br cl dt fa lt
+;H> fa hk cu vt lp cl br dt lt fa
+;H> br lp fa cu hk vt cl dt fa br
+;H> dt hk cu fa lp vt br lt cl fa
+
+<t9>
+;H> cu vt lp fa hk br cl dt fa lt
+;H> fa cu lp hk vt cl br dt lt fa
+;H> hk cu fa vt lp br cl dt fa lt
+;H> br fa cu hk lp vt cl dt lt fa
+;H> lt cu hk fa vt lp br dt cl fa
+
+<t10>
+;H> cu fa hk lp vt br cl dt fa lt
+;H> vt lp fa cu hk cl br dt lt fa
+;H> lp cu hk vt fa br cl dt fa lt
+;H> br fa hk cu vt lp cl dt fa br
+;H> dt lt cu fa lp hk vt br cl fa
+
+<t11>
+;H> cu fa lp vt hk cl br dt lt fa
+;H> hk cu vt fa lp br cl dt fa lt
+;H> vt fa cu lp hk cl br dt lt fa
+;H> br cu lp fa hk vt cl dt fa br
+;H> lt fa cu hk vt lp br dt cl fa
+
+<t12>
+;H> cu hk fa vt lp cl br dt fa lt
+;H> lp fa hk cu vt br cl dt lt fa
+;H> fa cu vt lp hk cl br dt fa lt
+;H> br hk cu fa vt lp cl dt fa br
+;H> dt cu lt fa lp hk vt br cl fa
+
+<t13>
+;H> cu vt fa hk lp br cl dt lt fa
+;H> fa lp cu hk vt cl br dt fa lt
+;H> hk cu fa vt lp cl br dt lt fa
+;H> br cu fa lp hk vt cl dt fa br
+;H> lt hk cu fa vt lp br dt cl fa
+
+<t14>
+;H> cu fa hk vt lp cl br dt fa lt
+;H> vt cu lp fa hk br cl dt lt fa
+;H> lp hk fa cu vt cl br dt fa lt
+;H> br vt cu fa hk lp cl dt fa br
+;H> dt fa lt cu lp hk vt br cl fa
+
+<t15>
+;H> cu hk lp vt fa cl br dt lt fa
+;H> fa cu hk lp vt br cl dt fa lt
+;H> vt lp cu hk fa cl br dt lt fa
+;H> br fa cu lp hk vt cl dt fa br
+;H> lt cu vt fa hk lp br dt cl fa
+
+<t16>
+;H> cu fa vt lp hk cl br dt fa lt
+;H> hk lp fa cu vt br cl dt lt fa
+;H> lp cu fa hk vt cl br dt fa lt
+;H> br hk lp cu fa vt cl dt fa br
+;H> dt cu fa lt vt lp hk br cl fa
+
+<t17>
+;H> cu vt hk lp fa cl br dt lt fa
+;H> fa cu vt hk lp br cl dt fa lt
+;H> hk lp cu vt fa cl br dt lt fa
+;H> br cu fa hk vt lp cl dt fa br
+;H> lt fa cu lp hk vt br dt cl fa
+
+<t18>
+;H> cu hk fa lp vt cl br dt fa lt
+;H> vt fa lp cu hk br cl dt lt fa
+;H> lp cu hk fa vt cl br dt fa lt
+;H> br vt lp cu fa hk cl dt fa br
+;H> dt lt fa cu vt lp hk br cl fa
+
+<t19>
+;H> cu fa lp hk vt br cl dt lt fa
+;H> hk cu fa vt lp cl br dt fa lt
+;H> vt cu lp hk fa cl br dt lt fa
+;H> br fa lp hk cu vt cl dt fa br
+;H> lt cu fa hk lp vt br dt cl fa
+
+<t20>
+;H> cu vt fa lp hk cl br dt fa lt
+;H> lp hk cu vt fa br cl dt lt fa
+;H> fa cu lp vt hk cl br dt fa lt
+;H> br cu hk fa lp vt cl dt fa br
+;H> dt fa cu lt vt lp hk br cl fa
+
+# ── KNOSSOS (t40–t79) ────────────────────────────────────────────────────────
+
+<t40>
+;H> cu vt fa hk lp lt cl br dt fa
+;H> br fa lp cu hk vt cl dt lt fa
+;H> hk cu fa vt lp br cl dt fa lt
+;H> lp cu hk fa vt cl br dt lt fa
+;H> dt fa cu hk lp vt br lt cl fa
+
+<t41>
+;H> cu hk fa lp vt lt cl br dt fa
+;H> fa cu lp hk vt br cl dt lt fa
+;H> vt lp cu fa hk cl br dt fa lt
+;H> br cu fa lp hk vt cl dt lt fa
+;H> lt fa cu vt hk lp br dt cl fa
+
+<t42>
+;H> cu fa vt hk lp cl br dt lt fa
+;H> hk lp fa cu vt br cl dt fa lt
+;H> lp cu fa hk vt lt cl br dt fa
+;H> br vt cu hk fa lp cl dt lt fa
+;H> dt cu fa lt lp hk vt br cl fa
+
+<t43>
+;H> cu vt lp hk fa cl br dt lt fa
+;H> fa hk cu lp vt br cl dt fa lt
+;H> hk cu vt fa lp lt cl br dt fa
+;H> br cu lp fa hk vt cl dt lt fa
+;H> lt fa cu hk lp vt br dt cl fa
+
+<t44>
+;H> cu fa hk lp vt lt cl br dt fa
+;H> vt cu fa lp hk br cl dt fa lt
+;H> lp hk cu fa vt cl br dt lt fa
+;H> br fa lp cu hk vt cl dt fa br
+;H> dt cu lt fa vt lp hk br cl fa
+
+<t45>
+;H> cu hk vt fa lp cl br dt lt fa
+;H> fa cu hk vt lp lt cl br dt fa
+;H> lp cu fa hk vt br cl dt fa lt
+;H> br hk fa cu lp vt cl dt lt fa
+;H> lt cu vt fa lp hk br dt cl fa
+
+<t46>
+;H> cu fa lp vt hk lt cl br dt fa
+;H> hk fa cu vt lp br cl dt fa lt
+;H> vt lp hk cu fa cl br dt lt fa
+;H> br cu fa vt lp hk cl dt lt fa
+;H> dt lt fa cu hk lp vt br cl fa
+
+<t47>
+;H> cu vt fa lp hk lt cl br dt fa
+;H> lp cu hk fa vt br cl dt fa lt
+;H> fa hk cu lp vt cl br dt lt fa
+;H> br cu vt fa lp hk cl dt lt fa
+;H> lt cu hk vt fa lp br dt cl fa
+
+<t48>
+;H> cu hk fa vt lp cl br dt lt fa
+;H> fa lp cu hk vt lt cl br dt fa
+;H> hk cu vt lp fa br cl dt fa lt
+;H> br fa cu hk lp vt cl dt lt fa
+;H> dt cu fa lt hk lp vt br cl fa
+
+<t49>
+;H> cu fa hk lp vt cl br dt lt fa
+;H> vt cu lp hk fa lt cl br dt fa
+;H> lp fa cu hk vt br cl dt fa lt
+;H> br cu hk lp fa vt cl dt lt fa
+;H> lt fa cu vt lp hk br dt cl fa
+
+<t50>
+;H> cu vt hk fa lp cl br dt lt fa
+;H> hk cu fa lp vt lt cl br dt fa
+;H> fa lp cu vt hk br cl dt fa lt
+;H> br hk cu fa lp vt cl dt lt fa
+;H> dt cu lt fa lp hk vt br cl fa
+
+# ── ZAKROS (t80–t119) ─────────────────────────────────────────────────────────
+
+<t80>
+;H> cu fa lp hk vt cl br dt lt fa
+;H> vt cu hk fa lp lt cl br dt fa
+;H> lp cu fa vt hk br cl dt fa lt
+;H> br fa lp hk cu vt cl dt lt fa
+;H> lt cu fa hk vt lp br dt cl fa
+
+<t81>
+;H> cu hk vt lp fa cl br dt lt fa
+;H> fa cu lp vt hk lt cl br dt fa
+;H> hk lp cu fa vt br cl dt fa lt
+;H> br cu vt fa hk lp cl dt lt fa
+;H> dt fa lt cu vt lp hk br cl fa
+
+<t82>
+;H> cu fa hk vt lp lt cl br dt fa
+;H> vt lp cu hk fa br cl dt fa lt
+;H> lp fa cu vt hk cl br dt lt fa
+;H> br hk cu lp fa vt cl dt lt fa
+;H> lt cu vt hk fa lp br dt cl fa
+
+<t83>
+;H> cu vt fa lp hk cl br dt lt fa
+;H> hk cu lp fa vt lt cl br dt fa
+;H> fa cu hk lp vt br cl dt fa lt
+;H> br cu fa hk vt lp cl dt lt fa
+;H> dt lt cu fa hk lp vt br cl fa
+
+<t84>
+;H> cu hk fa lp vt cl br dt lt fa
+;H> vt fa lp cu hk lt cl br dt fa
+;H> lp cu vt fa hk br cl dt fa lt
+;H> br fa hk cu lp vt cl dt lt fa
+;H> lt fa cu lp hk vt br dt cl fa
+
+<t85>
+;H> cu fa vt lp hk cl br dt lt fa
+;H> hk cu fa vt lp lt cl br dt fa
+;H> lp fa cu hk vt br cl dt fa lt
+;H> br cu lp hk fa vt cl dt lt fa
+;H> dt cu lt hk fa lp vt br cl fa
+
+<t86>
+;H> cu vt hk fa lp lt cl br dt fa
+;H> fa hk cu lp vt br cl dt fa lt
+;H> hk lp cu vt fa cl br dt lt fa
+;H> br fa cu vt lp hk cl dt lt fa
+;H> lt cu fa vt hk lp br dt cl fa
+
+<t87>
+;H> cu fa lp vt hk cl br dt lt fa
+;H> vt cu hk lp fa lt cl br dt fa
+;H> lp hk cu fa vt br cl dt fa lt
+;H> br cu fa lp hk vt cl dt lt fa
+;H> dt fa cu lt vt lp hk br cl fa
+
+<t88>
+;H> cu hk fa vt lp lt cl br dt fa
+;H> fa lp cu hk vt br cl dt fa lt
+;H> hk cu lp vt fa cl br dt lt fa
+;H> br vt cu fa lp hk cl dt lt fa
+;H> lt fa cu hk lp vt br dt cl fa
+
+<t89>
+;H> cu fa hk lp vt cl br dt lt fa
+;H> vt hk cu lp fa lt cl br dt fa
+;H> lp cu fa hk vt br cl dt fa lt
+;H> br hk fa lp cu vt cl dt lt fa
+;H> dt cu fa lt hk lp vt br cl fa
+
+<t90>
+;H> cu vt fa hk lp cl br dt lt fa
+;H> hk fa cu lp vt lt cl br dt fa
+;H> fa cu hk vt lp br cl dt fa lt
+;H> br cu vt lp fa hk cl dt lt fa
+;H> lt cu hk fa lp vt br dt cl fa
+
+# ── OTHER PALATIAL (t120–t159) ────────────────────────────────────────────────
+
+<t120>
+;H> cu fa lp hk vt lt cl br dt fa
+;H> vt lp cu hk fa br cl dt fa lt
+;H> lp fa cu vt hk cl br dt lt fa
+;H> br cu hk fa lp vt cl dt lt fa
+;H> dt lt cu vt fa lp hk br cl fa
+
+<t121>
+;H> cu hk fa vt lp cl br dt lt fa
+;H> fa cu hk lp vt lt cl br dt fa
+;H> hk lp cu fa vt br cl dt fa lt
+;H> br fa cu hk lp vt cl dt lt fa
+;H> lt fa cu lp hk vt br dt cl fa
+
+<t122>
+;H> cu vt hk lp fa lt cl br dt fa
+;H> lp cu fa hk vt br cl dt fa lt
+;H> fa hk cu lp vt cl br dt lt fa
+;H> br cu lp vt fa hk cl dt lt fa
+;H> dt cu fa lt lp hk vt br cl fa
+
+<t123>
+;H> cu fa vt hk lp cl br dt lt fa
+;H> hk lp cu vt fa lt cl br dt fa
+;H> vt cu fa lp hk br cl dt fa lt
+;H> br hk fa cu lp vt cl dt lt fa
+;H> lt cu hk vt lp fa br dt cl fa
+
+<t124>
+;H> cu hk lp fa vt cl br dt lt fa
+;H> fa cu lp hk vt lt cl br dt fa
+;H> lp hk cu fa vt br cl dt fa lt
+;H> br fa lp cu hk vt cl dt lt fa
+;H> dt fa cu lt vt lp hk br cl fa
+
+<t125>
+;H> cu fa hk vt lp cl br dt lt fa
+;H> vt cu fa lp hk lt cl br dt fa
+;H> hk lp fa cu vt br cl dt fa lt
+;H> br cu vt hk lp fa cl dt lt fa
+;H> lt fa cu hk vt lp br dt cl fa
+
+<t126>
+;H> cu vt fa lp hk lt cl br dt fa
+;H> lp cu hk vt fa br cl dt fa lt
+;H> fa cu lp hk vt cl br dt lt fa
+;H> br hk lp cu fa vt cl dt lt fa
+;H> dt cu lt fa hk lp vt br cl fa
+
+<t127>
+;H> cu hk fa lp vt lt cl br dt fa
+;H> fa cu hk vt lp br cl dt fa lt
+;H> vt lp cu hk fa cl br dt lt fa
+;H> br fa cu lp hk vt cl dt lt fa
+;H> lt cu fa vt lp hk br dt cl fa
+
+<t128>
+;H> cu fa lp vt hk cl br dt lt fa
+;H> hk cu lp vt fa lt cl br dt fa
+;H> lp fa cu hk vt br cl dt fa lt
+;H> br cu fa hk lp vt cl dt lt fa
+;H> dt lt fa cu lp hk vt br cl fa
+
+<t129>
+;H> cu vt hk lp fa cl br dt lt fa
+;H> fa hk cu vt lp lt cl br dt fa
+;H> hk cu fa lp vt br cl dt fa lt
+;H> br lp cu vt fa hk cl dt lt fa
+;H> lt cu fa hk vt lp br dt cl fa
+
+<t130>
+;H> cu fa hk vt lp lt cl br dt fa
+;H> vt lp fa cu hk br cl dt fa lt
+;H> lp cu hk fa vt cl br dt lt fa
+;H> br cu fa vt hk lp cl dt lt fa
+;H> dt fa lt cu hk lp vt br cl fa

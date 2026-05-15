@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "linear-a-engine"
+version = "0.1.0"
+description = "Universal Imscriptive Grammar compilation of Linear A"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Unlicense"}
+dependencies = [
+    "networkx",
+    "matplotlib",
+    "numpy>=2.2.6",
+]
+
+[project.scripts]
+la-compile   = "linear_a_engine.compiler:main"
+la-run       = "linear_a_engine.runtime:main"
+la-graph     = "linear_a_engine.callgraph:main"
+la-sections  = "linear_a_engine.sectional:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["linear_a_engine"]
