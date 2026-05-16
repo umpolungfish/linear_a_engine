@@ -254,7 +254,7 @@ The structural type of Linear A in Imscriptive Grammar notation:
 | **Γ** Scope | `Γ_ʔ` | Maximal / all |
 | **ɢ** Interaction | `ɢ_ˌ` | Sequential composition |
 | **⊙** Criticality | `⊙_ÿ` | Self-modeling gate |
-| **Ħ** Temporal depth | `Ħ_A` | Two-step Markov |
+| **Ħ** Chirality | `Ħ_A` | Two-step Markov |
 | **Σ** Stoichiometry | `Σ_ï` | Many heterogeneous |
 | **Ω** Winding | `Ω_z` | Integer winding (topological) |
 

@@ -62,7 +62,7 @@ Interpretation of individual primitive values:
 - **Γ_ʔ** (aleph scope): universal granularity
 - **ɢ^ˌ** (seq grammar): sequential interaction
 - **⊙_ÿ** (criticality c): at the critical point — exactly at the phase boundary
-- **Ħ_A** (H2 temporal depth): two-generation temporal embedding
+- **Ħ_A** (H2 chirality): two-generation temporal embedding
 - **Σ_ï** (n:m stoichiometry): many-to-many morphism
 - **Ω_z** (Z winding): infinite winding group, non-trivial topology
 

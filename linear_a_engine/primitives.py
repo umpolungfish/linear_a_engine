@@ -56,7 +56,7 @@ Translated into IG notation (SYMBOL_REFERENCE.md):
      [exOS Γ ≡ IG ɢ]              ɢ^∧     ɢ^˝    ɢ^ˌ     ɢ^Ş
   Φ  Criticality     →  ⊙        sub(0)  c(1)  c_cmplx(2)  EP(3)  sup(4)
      [exOS Φ ≡ IG ⊙]              ⊙_ž     ⊙_ÿ   ⊙_Æ         ⊙_3    ⊙_Ţ
-  H  Temporal depth  →  Ħ        H0(0)  H1(1)  H2(2)  H_inf(3)
+  H  Chirality  →  Ħ        H0(0)  H1(1)  H2(2)  H_inf(3)
                                   Ħ_Ñ     Ħ_£    Ħ_A    Ħ_!
   S  Stoichiometry   →  Σ        1:1(0)  n:n(1)  n:m(2)
                                   Σ_S     Σ_ő     Σ_ï
