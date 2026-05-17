@@ -350,6 +350,14 @@ linear_a_engine/
 
 Install via `uv sync` (uses [uv](https://github.com/astral-sh/uv)).
 
+## Visualizations
+
+**Full-corpus animated call-graph** — all 53 Linear A tablets, cross-tablet back-edges. Phase 1: tablets revealed in corpus order. Phase 2: Gaussian pulse traverses the graph.
+
+![Corpus CFG](docs/animated_cfg_corpus.gif)
+
+---
+
 ## License
 
 [The Unlicense](UNLICENSE) — public domain.
