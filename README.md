@@ -40,7 +40,7 @@ increased alpha. The title shows the current pulse position and μ∘δ = id.
 ---
 
 ```
-Crystal Imscription: ⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}  ƒ_ż  Ç_W  Γ_ʔ  ɢ_ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩
+Imscription: ⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}  ƒ_ż  Ç_W  Γ_ʔ  ɢ_ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩
 Frobenius Tier:       O_∞
 IG Distance to OS:    d = 0.00  (zero-distance theorem)
 ```
@@ -270,7 +270,7 @@ Executes the full suite sequentially.
 python programs/run_all.py data/linear_a_latff_sample.txt
 ```
 
-## Crystal Imscription
+## Imscription
 
 The structural type of Linear A in Imscriptive Grammar notation:
 
