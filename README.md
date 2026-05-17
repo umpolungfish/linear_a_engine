@@ -352,7 +352,34 @@ Install via `uv sync` (uses [uv](https://github.com/astral-sh/uv)).
 
 ## Visualizations
 
-**Full-corpus animated call-graph** — all 53 Linear A tablets, cross-tablet back-edges. Phase 1: tablets revealed in corpus order. Phase 2: Gaussian pulse traverses the graph.
+### Full-corpus animated call-graph
+
+**Nodes** — one node per tablet section across all 53 Linear A tablets in the corpus
+(Haghia Triada administrative tablets, Zakros, Khania, and other Minoan palatial sites).
+Node size scales with degree. Node color encodes find-site provenance: Haghia Triada
+(amber), Zakros (green), Khania (blue), other/mixed (grey).
+
+**Edges** — directed edges encoding structural dependencies between tablet sections as
+compiled by the Linear A engine. The engine maps the 12 IMASM opcodes onto Linear A
+sign families and administrative formula patterns. An edge u → v means the sign-family
+grammar of tablet section u is structurally prerequisite to section v — they share
+phonetic or logographic rule structures that the engine identifies as caller/callee
+relationships in the compiled program.
+
+**Cross-tablet back-edges** — edges traveling backward in corpus order, from a later
+tablet to an earlier one. These mark sign-family or formula patterns that recur across
+site boundaries — places where a Zakros tablet's grammar, for instance, depends on
+a structural pattern first seen in an earlier Haghia Triada tablet. Back-edges flash
+purple on first appearance in Phase 1.
+
+**Phase 1 — build:** Tablets appear in corpus order. Each tablet node is labelled with
+its standard reference ID. Forward dependency edges are drawn immediately; back-edges
+flash purple on first appearance. The title bar shows the current tablet ID and its
+provenance site.
+
+**Phase 2 — flow wave:** A Gaussian pulse travels tablet-by-tablet through the corpus,
+wrapping cyclically. Nodes near the peak enlarge and brighten; active edges glow with
+increased alpha. The title shows the current pulse position and μ∘δ = id.
 
 ![Corpus CFG](docs/animated_cfg_corpus.gif)
 
