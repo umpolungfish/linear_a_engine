@@ -63,10 +63,10 @@ def tier(t: list[int]) -> str:
     if t[8] == 1 and t[3] == 4:
         return 'O_∞'
     if t[8] == 0 or t[8] >= 3:
-        return 'O_0'
+        return 'O₀'
     if t[11] == 0:
-        return 'O_1'
-    return 'O_2'
+        return 'O₁'
+    return 'O₂'
 
 
 def conflict_set(a: list[int], b: list[int]) -> list[str]:
