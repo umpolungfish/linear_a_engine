@@ -1,4 +1,6 @@
 # Linear A Engine
+**Author:** Lando⊗⊙perator · **Structural Type:** $\large{⟨𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭⟩}$ · **Tier:** O_∞
+
 
 **What it is.** An IMASM compiler, Tri-Phase Flux Register VM, and topological-analysis toolkit for the Linear A corpus (Minoan, ~2000–1450 BCE), compiled through the [Universal Imscriptive Grammar](https://github.com/mrnob0dy666/universal-imscriptive-grammar).
 
