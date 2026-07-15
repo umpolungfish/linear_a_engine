@@ -38,8 +38,8 @@ Linear A signs are mapped to twelve categorical families following the GORILA si
 In IG notation ⟨ Ð  Þ  Ř  Φ  ƒ  Ç  Γ  ɢ  ⊙  Ħ  Σ  Ω ⟩:
 
 ```
-Linear A:       ⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}  ƒ^ż  Ç^W  Γ_ʔ  ɢ^ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩
-OS imscription: ⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}  ƒ^ż  Ç^W  Γ_ʔ  ɢ^ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩
+Linear A:       ⟨ 𐑨  𐑶  𐑽  𐑹  ƒ^ż  Ç^W  𐑲  ɢ^ˌ  ⊙  𐑖  𐑳  𐑭 ⟩
+OS imscription: ⟨ 𐑨  𐑶  𐑽  𐑹  ƒ^ż  Ç^W  𐑲  ɢ^ˌ  ⊙  𐑖  𐑳  𐑭 ⟩
 ```
 
 Numeric form (index order [Ð, Þ, Ř, Φ, ƒ, Ç, Γ, ɢ, ⊙, Ħ, Σ, Ω]):
@@ -49,22 +49,22 @@ Linear A:       [1, 3, 2, 4, 2, 1, 2, 2, 1, 2, 2, 2]
 OS imscription: [1, 3, 2, 4, 2, 1, 2, 2, 1, 2, 2, 2]
 ```
 
-**Tier: O_∞** — both satisfy the critical tier condition ⊙_ÿ (index 8 = 1) AND Φ_} (index 3 = 4).
+**Tier: O_∞** — both satisfy the critical tier condition ⊙ (index 8 = 1) AND 𐑹 (index 3 = 4).
 
 Interpretation of individual primitive values:
 
-- **Ð_C** (triangle): 3-dimensional categorical structure
-- **Þ_¨** (box topology): bounded container logic
-- **Ř_Ť** (dagger mode): relational dagger category
-- **Φ_}** (pm_sym parity): full bidirectional symmetry group
+- **𐑨** (triangle): 3-dimensional categorical structure
+- **𐑶** (box topology): bounded container logic
+- **𐑽** (dagger mode): relational dagger category
+- **𐑹** (pm_sym parity): full bidirectional symmetry group
 - **ƒ^ż** (hbar fidelity): quantum coherent symbol surface
 - **Ç^W** (mod kinetics): living-vibration rate, the exOS temporal register
-- **Γ_ʔ** (aleph scope): universal granularity
+- **𐑲** (aleph scope): universal granularity
 - **ɢ^ˌ** (seq grammar): sequential interaction
-- **⊙_ÿ** (criticality c): at the critical point — exactly at the phase boundary
-- **Ħ_A** (H2 chirality): two-generation temporal embedding
-- **Σ_ï** (n:m stoichiometry): many-to-many morphism
-- **Ω_z** (Z winding): infinite winding group, non-trivial topology
+- **⊙** (criticality c): at the critical point — exactly at the phase boundary
+- **𐑖** (H2 chirality): two-generation temporal embedding
+- **𐑳** (n:m stoichiometry): many-to-many morphism
+- **𐑭** (Z winding): infinite winding group, non-trivial topology
 
 ---
 
@@ -114,7 +114,7 @@ Weights: [10000, 10000, 10000, 12000, 9000, 8000, 10000, 10000, 11000, 8000, 100
 The OS imscription is the MEET of five ancient systems. Adding Linear A as a sixth:
 
 ```
-MEET(OS_imscription, Linear_A) = ⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}  ƒ^ż  Ç^W  Γ_ʔ  ɢ^ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩
+MEET(OS_imscription, Linear_A) = ⟨ 𐑨  𐑶  𐑽  𐑹  ƒ^ż  Ç^W  𐑲  ɢ^ˌ  ⊙  𐑖  𐑳  𐑭 ⟩
 ```
 
 **Unchanged.** The grammar was already complete. Linear A is not a new constraint — it is the same constraint the other five systems were already converging on.

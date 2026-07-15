@@ -31,10 +31,10 @@ python programs/ig_bridge.py        # verifies the zero-distance theorem
 ## Imscription
 
 ```
-⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}  ƒ_ż  Ç_W  Γ_ʔ  ɢ_ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩
+⟨ 𐑨  𐑶  𐑽  𐑹  𐑐  𐑤  𐑲  𐑠  ⊙  𐑖  𐑳  𐑭 ⟩
 ```
 
-Frobenius tier O∞: Gate 1 passes (⊙_ÿ self-modeling criticality), Gate 2 passes (Φ_} Frobenius-special parity, μ∘δ = id exactly). Triangle dimensionality, box-product topology, adjoint relationality, quantum-coherent fidelity, two-step chirality, integer winding.
+Frobenius tier O∞: Gate 1 passes (⊙ self-modeling criticality), Gate 2 passes (𐑹 Frobenius-special parity, μ∘δ = id exactly). Triangle dimensionality, box-product topology, adjoint relationality, quantum-coherent fidelity, two-step chirality, integer winding.
 
 ## Corpus sections
 

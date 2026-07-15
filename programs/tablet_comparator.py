@@ -127,7 +127,7 @@ def main():
 
     # OS imscription note
     print(f"\nNote: Linear A crystal imscription = OS imscription (d=0.00)")
-    print(f"  ⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}}  ƒ_ż  Ç_W  Γ_ʔ  ɢ_ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩")
+    print(f"  ⟨ 𐑨  𐑶  𐑽  𐑹}  𐑐  𐑤  𐑲  𐑠  ⊙  𐑖  𐑳  𐑭 ⟩")
     print(f"  All four sections share this fixed-point structure.")
 
 

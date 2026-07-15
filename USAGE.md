@@ -100,7 +100,7 @@ python programs/run_all.py data/linear_a_latff_sample.txt
 ## Crystal Imscription
 
 ```
-⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}  ƒ_ż  Ç_W  Γ_ʔ  ɢ_ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩
+⟨ 𐑨  𐑶  𐑽  𐑹  𐑐  𐑤  𐑲  𐑠  ⊙  𐑖  𐑳  𐑭 ⟩
 Tier: O_∞   C score: 0.0   IG distance to OS imscription: 0.00
 ```
 
