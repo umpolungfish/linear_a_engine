@@ -94,7 +94,7 @@
     "other_palatial":{"tablets": 40, "dominant_families": ["cu", "lt", "br"], "note": "Akrotiri, Malia, Palaikastro, Tylissos"}
   },
   "crystal_imscription": {
-    "notation": "⟨ Ð_C  Þ_¨  Ř_Ť  Φ_}  ƒ^ż  Ç^W  Γ_ʔ  ɢ^ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩",
+    "notation": "⟨ 𐑨  Þ_¨  Ř_Ť  Φ_}  ƒ^ż  Ç^W  Γ_ʔ  ɢ^ˌ  ⊙_ÿ  Ħ_A  Σ_ï  Ω_z ⟩",
     "numeric":  [1, 3, 2, 4, 2, 1, 2, 2, 1, 2, 2, 2],
     "tier":     "O_∞",
     "note":     "Identical to OS imscription. Linear A IS the structural core."
